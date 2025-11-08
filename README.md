@@ -118,6 +118,3 @@ For inquiries, collaborations, or technical support:
 
 Sayyed Engineering
 📍 India
-📩 [your-email@example.com
-]
-🌐 www.sayyedengineering.com
